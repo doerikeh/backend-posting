@@ -20,9 +20,9 @@ colorama==0.4.3
 constantly==15.1.0
 coverage==5.1
 coveralls==2.0.0
-cryptography==2.9.2
-Cython==0.29.21
-daphne==3.0.1
+# cryptography==2.9.2
+# Cython==0.29.21
+# daphne==3.0.1
 defusedxml==0.6.0
 Django==3.0.5
 django-allauth==0.27.0
@@ -47,12 +47,12 @@ django-user-visit==0.4.1
 django-widget-tweaks==1.4.8
 djangorestframework==3.12.2
 docopt==0.6.2
-google-api-core==1.22.4
-google-api-python-client==1.12.3
-google-auth==1.22.1
-google-auth-httplib2==0.0.4
-google-auth-oauthlib==0.4.1
-googleapis-common-protos==1.52.0
+# google-api-core==1.22.4
+# google-api-python-client==1.12.3
+# google-auth==1.22.1
+# google-auth-httplib2==0.0.4
+# google-auth-oauthlib==0.4.1
+# googleapis-common-protos==1.52.0
 gunicorn==20.0.4
 hiredis==1.0.1
 html2text==2020.1.16
@@ -69,9 +69,9 @@ msgpack==1.0.0
 msgpack-python==0.5.6
 # mysqlclient @ file:///C:/Users/ike/Documents/coding/Python%20Project/backend_finger/mysqlclient-1.4.6-cp38-cp38-win32.whl
 nose==1.3.7
-numpy==1.19.0
+# numpy==1.19.0
 oauthlib==3.1.0
-opencv-contrib-python==4.3.0.36
+# opencv-contrib-python==4.3.0.36
 packaging==20.5
 phonenumbers==8.12.5
 Pillow==7.1.2
